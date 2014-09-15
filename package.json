@@ -1,0 +1,36 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "main" : "lens.js",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/Laiff/lens.js"
+    },
+    "keywords": [
+        "functional",
+        "programming",
+        "fp",
+        "lens",
+        "transforms",
+        "operation"
+    ],
+    "author": "Andrew Laiff",
+    "homepage": "https://github.com/Laiff/lens.js",
+    "license": "MIT",
+    "gitHead": "",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/Laiff/lens.js/issues"
+    },
+    "devDependencies": {
+        "mocha" : "latest",
+        "expect.js" : "latest",
+        "sinon" : "latest"
+    },
+    "dependencies": {
+
+    },
+    "engines" : {
+        "node" : "*"
+    }
+}
