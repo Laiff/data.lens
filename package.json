@@ -1,7 +1,7 @@
 {
     "name": "data.lens",
     "version": "0.0.1",
-    "main" : "lens.js",
+    "main" : "src/lens.js",
     "repository" : {
         "type" : "git",
         "url" : "git://github.com/Laiff/data.lens"
@@ -26,9 +26,9 @@
         "sinon" : "latest"
     },
     "dependencies": {
-        "core.lambda" : "latest",
-        "core.operators" : "latest",
-        "monads.maybe" : "latest"
+        "core.lambda" : "~1.0.0",
+        "core.operators" : "~1.0.0",
+        "monads.maybe" : "~0.3.0"
     },
     "engines" : {
         "node" : "*"
