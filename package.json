@@ -4,7 +4,7 @@
     "main" : "lens.js",
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/Laiff/lens.js"
+        "url" : "git://github.com/Laiff/data.lens"
     },
     "keywords": [
         "functional",
@@ -13,12 +13,12 @@
         "lens"
     ],
     "author": "Andrew Laiff",
-    "homepage": "https://github.com/Laiff/lens.js",
+    "homepage": "https://github.com/Laiff/data.lens",
     "license": "MIT",
     "gitHead": "",
     "readmeFilename": "README.md",
     "bugs": {
-        "url": "https://github.com/Laiff/lens.js/issues"
+        "url": "https://github.com/Laiff/data.lens/issues"
     },
     "devDependencies": {
         "mocha" : "latest",
