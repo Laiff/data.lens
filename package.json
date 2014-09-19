@@ -10,9 +10,7 @@
         "functional",
         "programming",
         "fp",
-        "lens",
-        "transforms",
-        "operation"
+        "lens"
     ],
     "author": "Andrew Laiff",
     "homepage": "https://github.com/Laiff/lens.js",
@@ -28,7 +26,9 @@
         "sinon" : "latest"
     },
     "dependencies": {
-
+        "core.lambda" : "latest",
+        "core.operators" : "latest",
+        "monads.maybe" : "latest"
     },
     "engines" : {
         "node" : "*"
