@@ -1,6 +1,6 @@
 {
     "name": "data.lens",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main" : "src/lens.js",
     "repository" : {
         "type" : "git",
