@@ -28,7 +28,7 @@
     "dependencies": {
         "core.lambda" : "~1.0.0",
         "core.operators" : "~1.0.0",
-        "monads.maybe" : "~0.3.0"
+        "data.maybe" : "~1.1.0"
     },
     "engines" : {
         "node" : "*"
